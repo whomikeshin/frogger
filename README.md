@@ -1,5 +1,3 @@
-13 rows
+Frogger
 
-changes only made in x [pos]
-
-pieces of varying length in each direction
+Controls: ["i" => Up, "k" => Down, "j" => Left, "l" => Right]
