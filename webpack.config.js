@@ -1,5 +1,5 @@
 module.exports = {
-  entry: "./lib/frogger.js",
+  entry: "./lib/toadder.js",
   output: {
   	filename: "./lib/bundle.js"
   },
