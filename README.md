@@ -28,6 +28,5 @@ Toadder is built using HTML5 Canvas, Javascript, and Webpack
   - Getting Toad to a Pipe: 50 points
   - Saving all five frogs: 1,000 points
   - TimeBar bonus: 10 points for every second remaining
-  - Getting Lady Toad home: 200 points
   - Getting a mushroom: 200 points
 >>>>>>> master
