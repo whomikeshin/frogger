@@ -16,7 +16,7 @@ Toadder is a Mario themed web game inspired by the classic Frogger.
 [Play Game] (http://whomikeshin.github.io/toadder/)
 
 ## Screen Shot
-![alt tag](https://github.com/whomikeshin/toadder/blob/master/images/screenshot.png)
+![alt tag](https://github.com/whomikeshin/toadder/blob/gh-pages/images/screenshot.png)
 ## Technical Details
 Toadder is built using HTML5 Canvas, Javascript, and Webpack
 
