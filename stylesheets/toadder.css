@@ -17,8 +17,8 @@ footer {
   width: 100%;
   text-align: right;
   position: absolute;
-  bottom: 18px;
-  right: 250px;
+  bottom: -32px;
+  right: 225px;
 }
 
 footer > a {
